@@ -46,7 +46,12 @@ input[type='file'] {
 }
 
 /* 4. 저장버튼 */
-button {
+button {font-size:1px;
+  width:30px;
+  height:5px;
+  border-width:0.3px;
+  color:blue;
+  border-color:black;
 }
 
 /* 5. Grid */
